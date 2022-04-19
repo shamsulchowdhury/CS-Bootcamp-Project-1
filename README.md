@@ -13,7 +13,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   - [Filebeat Playbook](playbook-and-config-files/redteam.yml)
   - [Filebeat Config](playbook-and-config-files/redteam.yml)
   - [Metric Beat Playbook File](playbook-and-config-files/metric-playbook.yml)
-  - [DVWA Webservers Playbook](playbook-and-config-files/metricbeat-config.yml)
+  - [Metric Beat Config File](playbook-and-config-files/metricbeat-config.yml)
 
 
 
